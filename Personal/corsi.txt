@@ -1,0 +1,12 @@
+------Scheda corso-----
+Nome del corso : Java Web
+Durata del corso : 12
+Descrizione del corso : Java Web
+Data del corso : 2002-02-02
+Link del corso : www.ciac.com.br
+------Scheda corso-----
+Nome del corso : Java
+Durata del corso : 20
+Descrizione del corso : Java Web
+Data del corso : 2002-02-02
+Link del corso : www.ciac.it
